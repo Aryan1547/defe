@@ -1,0 +1,21 @@
+# Dependencies (anyone can recreate with `npm install`)
+node_modules/
+
+# Secrets
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Netlify local folder
+.netlify/
